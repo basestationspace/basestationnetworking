@@ -11,8 +11,8 @@ canonifyurls    = true
   subtitle    = ""
   copyright   = "Basestation Networking (© Copyright 2020)"
 
-  cover       = "img/blog-cover.jpg"
-  description = "Basestation Networking"
+  cover       = "web_banner.png"
+  description = ""
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
@@ -20,22 +20,22 @@ canonifyurls    = true
 
   twitterName = ""
   fbName = ""
-  githubName = ""
+  githubName = "basestationspace"
   linkedinName = ""
   mediumName = ""
 
-  logo = "hugo-logo.png"
-  orgName = "EM"
-  orgWebsite = "https://www.telematika.org"
-  orgDescription = "Here is a description placeholder for your org"
+  logo = "logo.png"
+  orgName = ""
+  orgWebsite = ""
+  orgDescription = ""
 
   showSupport = true
 
-  author = "EM"
-  authorAvatar = "img/ghost-icon.png"
-  authorLocation = "Bandung, ID"
-  authorWebsite = "https://eueung.github.io"
-  authorDescription = "Your description here"
+  author = ""
+  authorAvatar = ""
+  authorLocation = ""
+  authorWebsite = ""
+  authorDescription = ""
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -51,18 +51,13 @@ canonifyurls    = true
   weight = 200
 
 [[menu.main]]
-  name = "Go"
-  url = "/tags/golang/"
+  name = "About Us"
+  url = "/about/"
   weight = 100
 
 [[menu.main]]
   name = "Categories"
   url = "/categories/"
   weight = 99
-
-[[menu.main]]
-  name = "External"
-  url = "https://google.com/"
-  weight = 95
 
 
