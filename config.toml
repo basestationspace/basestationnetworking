@@ -1,4 +1,4 @@
-baseurl         = "https://basestation.space"
+baseurl         = "https://www.basestation.space"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
